@@ -1,0 +1,30 @@
+ *{
+margin: 0%;
+padding: 0%
+ }
+.cabeçalho{
+    background-color:  #c43d8e;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+ .cabeçalho-imagem{
+    width: 10%;
+    padding: 24px 0;
+ }
+  .cabeçalho-lista-item{
+  display: inline-block;
+  margin: 0 16px;
+  padding: 24px 0;
+  font-size: 24px;
+  }
+  .Maquiagem{
+    background-color:  #217923;
+
+  }
+  .sessão-imagem{
+    padding: 50px;
+  }
+
+
